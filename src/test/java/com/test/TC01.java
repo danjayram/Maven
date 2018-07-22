@@ -8,7 +8,7 @@ public class TC01 {
 	
 	@Test
 	public void tc01_1(){
-	
+	System.out.println("hello");
 		//Assert.fail();
 	}
 	@Test
